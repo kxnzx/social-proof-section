@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/review-and-testimonial-card-layout-with-grid-css-4EvzoRNh0)
-- Live Site URL: [Github Pages](https://kxnzx.github.io/social-proof-section/)
+- View my Solution on [Frontend Mentor](https://www.frontendmentor.io/solutions/review-and-testimonial-card-layout-with-grid-css-4EvzoRNh0)
+- View the Live Site [here](https://kxnzx.github.io/social-proof-section/)
 
 ## My process
 
