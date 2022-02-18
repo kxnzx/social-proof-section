@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/review-and-testimonial-card-layout-with-grid-css-4EvzoRNh0)
+- Live Site URL: [Github Pages](https://kxnzx.github.io/social-proof-section/)
 
 ## My process
 
