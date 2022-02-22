@@ -23,7 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
+#### Screensize 1440px - Desktop
+
 ![Screenshot](images/ScreenshotSection.png)
+
+#### Screensize 375px - Mobile
+
+<img src="images/Screenshot1.png" alt="mobile" width="150px"><img src="images/Screenshot2.png" alt="mobile" width="150px">
 
 ### Links
 
